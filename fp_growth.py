@@ -60,7 +60,7 @@ def main():
     # Estimate the similarity between the Training/Testing file
     result = s.similar(score_cal_train, score_cal_test)
     print(result)
-    print("done")
+    
 
 
 if __name__ == "__main__":
